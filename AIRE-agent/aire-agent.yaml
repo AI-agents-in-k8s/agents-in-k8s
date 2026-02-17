@@ -144,7 +144,7 @@ spec:
         - create_branch
         - get_file_contents
         - search_code
-        - get_pull_request
+        - pull_request_read
         - list_pull_requests
         - create_or_update_file
     - type: McpServer      
